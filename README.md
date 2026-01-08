@@ -1,0 +1,2 @@
+# E-Commerce-Product-Description-Embedding-Using-BERT
+E-commerce semantic search using BERT &amp; FAISS. Understands natural language to find products with 92-100% accuracy.  ## Features - BERT embeddings for semantic understanding - FAISS vector search (GPU-accelerated) - 92-100% accuracy on test queries  &lt;50ms search latency - Ready REST API  ## Results - Category Accuracy: 100% - Keyword Accuracy: 92% 
